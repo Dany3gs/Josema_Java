@@ -1,3 +1,5 @@
+//Ejercicio01 **Este es el que vi primero, que estaba fuera de la lista, lo marque como el primero**
+
 /* Crea un programa en java que muestre el nombre de un día de la semana a
 partir de su número (del 1 al 7) introducido por el usuario, usando "if".
 Por ejemplo, si el usuario introduce el número "2", tu programa deberá responder "martes".
