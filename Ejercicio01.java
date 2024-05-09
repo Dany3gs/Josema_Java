@@ -25,7 +25,6 @@ public class Main {
 
         int numeroDiaSemana = scanner.nextInt();
 
-        // for (int i = 1; i <= 7; i++) {
         if (numeroDiaSemana == 1) {
             System.out.println("Lunes");
         } else if (numeroDiaSemana == 2) {
