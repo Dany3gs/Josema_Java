@@ -6,12 +6,6 @@ Por ejemplo, si el usuario introduce el número "2", tu programa deberá respond
 Si introduce un número menor que 1 o mayor que 7, deberá decir "día no válido"*/
 
 
-//En IntelliJ cree lo mismo con If/Else, y en el if sale una bombilla que me da opción de otras formas
-//de declarar el código, como con "Switch", interesante... ejemplo de abajo
-
-//Se empieza con un public class + ****"nombre de archivo"****, y después vamos llamando a esa clase
-//Es case-sensitive
-
 import java.util.Scanner;
 import java.util.stream.IntStream;
 
