@@ -1,46 +1,26 @@
-/* Crea un programa en java que muestre el nombre de un día de la semana a
-partir de su número (del 1 al 7) introducido por el usuario, usando "if".
-Por ejemplo, si el usuario introduce el número "2", tu programa deberá responder "martes".
-Si introduce un número menor que 1 o mayor que 7, deberá decir "día no válido"*/
+/*
+Ejercicio 02
 
+Intenta determinar el valor final almacenado en resultado la variable en cada
+una de estas expresiones. Puedes escribir un pequeño programa Java más
+adelante para comprobar tus respuestas:
 
-import java.util.Scanner;
-import java.util.stream.IntStream;
+• int resultado = 4 + 8 * 2 / 4;
+• int resultado = (4 + 8) * 2 / 4;
+• int resultado = (4 + 8) * 3 % 5;
+*/
+
 
 public class Main {
     public static void main(String[] args) {
 
-System.out.println("Hello and welcome!");
-//Aquí tuve que buscar que no daba como era para la pregunta:)
-Scanner scanner = new Scanner(System.in);
-        
-System.out.println("Qué número de día de la semana es hoy?");
+int resultado1 = 4 + 8 * 2 / 4;
+int resultado2 = (4 + 8) * 2 / 4;
+int resultado3 = (4 + 8) * 3 % 5;
 
-int numeroDiaSemana = scanner.nextInt();
-       
-        if (numeroDiaSemana == 1) {
-            System.out.println("Lunes");
-        
-        } else if (numeroDiaSemana == 2) {
-            System.out.println("Martes");
-        
-        } else if (numeroDiaSemana == 3) {
-            System.out.println("Miércoles");
-        
-        } else if (numeroDiaSemana == 4) {
-            System.out.println("Jueves");
-        
-        } else if (numeroDiaSemana == 5) {
-            System.out.println("Viernes");
-        
-        } else if (numeroDiaSemana == 6) {
-            System.out.println("Sábado");
-        
-        } else if (numeroDiaSemana == 7) {
-            System.out.println("Domingo");
-        
-        } else {
-            System.out.println("Dia no valido");
-        }
+        System.out.println(resultado1);
+        System.out.println(resultado2);
+        System.out.println(resultado3);
+
     }
 }
