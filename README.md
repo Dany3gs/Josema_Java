@@ -24,7 +24,7 @@ adelante para comprobar tus respuestas:
 • int resultado = (4 + 8) * 3 % 5;
 
 
-Ejercicio 03
+Ejercicio 03 ✅ Done
 
 Determine el valor final de resultado la variable después de ejecutar todas estas
 instrucciones:
