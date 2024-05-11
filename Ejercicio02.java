@@ -10,6 +10,9 @@ adelante para comprobar tus respuestas:
 • int resultado = (4 + 8) * 3 % 5;
 */
 
+//Solucion
+
+//Se crea una variables para cada cálculo.
 
 public class Main {
     public static void main(String[] args) {
