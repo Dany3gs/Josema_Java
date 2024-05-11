@@ -6,13 +6,19 @@ Por ejemplo, si el usuario introduce el número "2", tu programa deberá respond
 Si introduce un número menor que 1 o mayor que 7, deberá decir "día no válido"*/
 
 
+//Solucion
+
+/*Para la pregunta se crea un comando Scanner y una variable numeroDiaSemana para 
+consultar el dia de la semana, con la sentencia If/else asignamos el número a cada 
+día llamando a la variable, y en caso de que sea diferente de los valores indicados, 
+con else nos devuelva dia no valido*/
+
 import java.util.Scanner;
 import java.util.stream.IntStream;
 
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello and welcome!");
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Qué número de día de la semana es hoy?");
