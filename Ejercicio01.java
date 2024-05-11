@@ -8,9 +8,10 @@ Si introduce un número menor que 1 o mayor que 7, deberá decir "día no válid
 
 //Solucion
 
-/*Para la pregunta se crea una clase Scanner y una variable numeroDiaSemana para 
-consultar el dia de la semana, con la sentencia If/else asignamos el número a cada 
-día llamando a la variable, y en caso de que sea diferente de los valores indicados, 
+/*Para poder hacer la pregunta, importamos una clase Scanner al comienzo del archivo,
+ se crea una instancia de Scanner para llamar a la clase con las declaraciones y una 
+variable numeroDiaSemana para consultar el dia de la semana, con la sentencia If/else 
+asignamos el número a cada día llamando a la variable, y en caso de que sea diferente de los valores indicados, 
 con else nos devuelva dia no valido*/
 
 import java.util.Scanner;
