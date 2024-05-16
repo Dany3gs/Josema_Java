@@ -35,7 +35,7 @@ resultado--;
 resultado %= 4;
 
 
-Ejercicio 04
+Ejercicio 04✅ Done
 
 Cree un programa llamado Edades.java que:
 • Define dos variables byte para almacenar tu edad y la edad de un amigo.
