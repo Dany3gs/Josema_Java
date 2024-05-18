@@ -47,7 +47,7 @@ incluidos los dígitos de las fracciones.
 calculado en el paso anterior
 
 
-Ejercicio 05
+Ejercicio 05 ✅ Done
 
 Escribe un programa en Java que pida al usuario un número entero y determine si es par o impar. El programa debe imprimir un mensaje indicando si el número introducido es par o impar. 
 Consejo: 
