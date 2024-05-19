@@ -54,7 +54,7 @@ Consejo:
 Recuerda, un número es par si es divisible por 2 sin dejar residuo o resto.
 
 
-Ejercicio 06
+Ejercicio 06 ✅ Done
 
 Crea una clase llamada DivisionYResto en Java. Esta clase debe tener un método principal (main) que realice las siguientes tareas:
 
