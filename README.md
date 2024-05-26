@@ -66,7 +66,7 @@ Muestra en la consola el resultado de la división y el resto en el siguiente fo
 Por ejemplo, si el primer número es 10 y el segundo número es 3, el programa debe imprimir: “El resultado de dividir 10 entre 3 es 3, con resto 1”.
 
 
-Ejercicio 07
+Ejercicio 07 ✅ Done
 
  Crea un programa que permita calcular longitudes de circunferencias. 
  El usuario introducirá el radio y se le responderá algo como 
