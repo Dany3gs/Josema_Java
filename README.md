@@ -74,7 +74,7 @@ Ejercicio 07 ✅ Done
  Recuerda que la fórmula es L = 2 * PI * radio. 
 
 
-Ejercicio 08
+Ejercicio 08 ✅ Done
 
 Crea un programa en java que pida al usuario un número entero y responda 
 si es un número positivo, negativo o cero, usando "if" y "else".
