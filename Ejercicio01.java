@@ -15,9 +15,8 @@ asignamos el número a cada día llamando a la variable, y en caso de que sea di
 con else nos devuelva dia no valido*/
 
 import java.util.Scanner;
-import java.util.stream.IntStream;
 
-public class Main {
+public class Ejercicio01 {
     public static void main(String[] args) {
 
 
