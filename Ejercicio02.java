@@ -14,7 +14,7 @@ adelante para comprobar tus respuestas:
 
 //Se crea una variables para cada cálculo.
 
-public class Main {
+public class Ejercicio02 {
     public static void main(String[] args) {
 
 int resultado1 = 4 + 8 * 2 / 4;
