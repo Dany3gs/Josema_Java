@@ -8,10 +8,10 @@
 
 Vamos con los siguientes ejercicios:
 
-Ejercicio Array 1
+Ejercicio Array 1 ✅
 Leer 5 números y mostrarlos en el mismo orden introducido.
 
-Ejercicio Array 2
+Ejercicio Array 2 ✅
 Leer 5 números y mostrarlos en orden inverso al introducido.
 
 Ejercicio Array 3
