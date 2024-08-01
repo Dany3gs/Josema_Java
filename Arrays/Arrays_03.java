@@ -16,6 +16,8 @@ public class Arrays_03 {
         int mediaNegagtivos = 0;
         int ceros = 0;
         int numeroCeros = 0;
+        double contadorPositivos = 0, contadorNegativos = 0;
+
 
         for (int i = 0; i < num.length; i++) {
             num[i] = sc.nextInt();
@@ -24,19 +26,21 @@ public class Arrays_03 {
             int positivos = num[i];
             if (positivos > 0) {
                 mediaPositivos += positivos;
+                contadorPositivos ++;
             }
         }
         for (int i = 0; i < num.length; i++) {
             int negativos = num[i];
             if (negativos < 0) {
                 mediaNegagtivos += negativos;
+                contadorNegativos++;
             }
         }
         if (mediaPositivos > 0) {
-            System.out.println("La media de números positivos es: " + mediaPositivos / num.length);
+            System.out.println("La media de números positivos es: " + mediaPositivos / contadorPositivos);
         }
         if (mediaNegagtivos < 0) {
-            System.out.println("La media de números negativos es: " + mediaNegagtivos / num.length);
+            System.out.println("La media de números negativos es: " + mediaNegagtivos / contadorNegativos);
         }
         for (int i = 0; i < num.length; i++) {
             if (num[i] == ceros) {
