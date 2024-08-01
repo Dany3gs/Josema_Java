@@ -24,3 +24,4 @@ public class Arrays_04 {
 
     }
 }
+// ok
