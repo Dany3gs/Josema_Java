@@ -7,8 +7,6 @@ import java.util.Scanner;
 public class Arrays_05 {
     public static void main(String[] args) {
 
-        //Pendiente verificar, error de Exception
-
         Scanner sc = new Scanner(System.in);
         int[] numA = new int[10];
         int[] numB = new int[10];
@@ -20,7 +18,8 @@ public class Arrays_05 {
         for (int i = 0; i < numB.length; i++) {
             numB[i] = sc.nextInt();
         }
-        for (int i = 0; i < numC.length; i++) {
+        //¿es válido usar una de las variables A o B como length?
+        for (int i = 0; i < numB.length ; i++) {
             numC[i] = numA[i];
             System.out.print(numC[i] + ", ");
             numC[i] = numB[i];
