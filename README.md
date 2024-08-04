@@ -1,4 +1,7 @@
-# Josema_Java
+<p align="cener" width="350">      
+<h1 align="center" >A estudiar gracias a Josema! </h1>
+</p>
+
 
 He creado este repositorio para ir subiendo ejercicios de Java que me está facilitando muy amablemente Josema, Muchas Gracias!!!!!
 
