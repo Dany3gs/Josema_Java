@@ -22,11 +22,11 @@ Ejercicio Array 4 ✅
 Leer 10 números enteros. Debemos mostrarlos en el siguiente orden: el primero, el último, el segundo, el
 penúltimo, el tercero, etc.
 
-Ejercicio Array 5 DIFICIL
+Ejercicio Array 5 ✅ DIFICIL
 Leer por teclado dos tablas de 10 números enteros y mezclarlas en una tercera de la forma: el 1º de A, el 1º
 de B, el 2º de A, el 2º de B, etc.
 
-Ejercicio Array 6
+Ejercicio Array 6 ✅
 Crea un array de 10 posiciones de números con valores pedidos por teclado.
 Muestra por consola el indice y el valor al que corresponde.
 

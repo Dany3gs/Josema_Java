@@ -18,6 +18,7 @@ public class Arrays_01 {
         }
         for (int i = 0; i < num.length; i++) {
             System.out.print(num[0] + i + ", ");
+
         }
     }
 }
