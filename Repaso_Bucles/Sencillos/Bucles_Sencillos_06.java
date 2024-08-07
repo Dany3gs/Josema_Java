@@ -27,10 +27,8 @@ public class Bucles_Sencillos_06 {
             }
             if (numerosIngresados < 0) {
                 System.out.println("La medía de los números ingresados es: " + suma / contador);
-
                 break;
             }
         }
-
     }
 }

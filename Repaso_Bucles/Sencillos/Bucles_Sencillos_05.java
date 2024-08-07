@@ -6,7 +6,10 @@ package Repaso_Bucles.Sencillos;
  para abrirla. Si no acertamos, se nos mostrará el mensaje
  “Lo siento, esa no es la combinación” y si acertamos se nos dirá
  “La caja fuerte se ha abierto satisfactoriamente”. Tendremos cuatro
- oportunidades para abrir la caja fuerte.*/
+ oportunidades para abrir la caja fuerte.
+
+ Con un contador y bucle while es mas claro el código y legible, rehecho en ejercicio 5b
+ */
 
 import java.util.Scanner;
 
@@ -25,9 +28,9 @@ public class Bucles_Sencillos_05 {
             if (codigo == combinacion) {
                 System.out.println("La caja fuerte se ha abierto satisfactoriamente");
                 break;
-            } else {
+            }  else {
                 System.out.println("Lo siento, esa no es la combinación");
             }
-        }
+        }sc.close();
     }
 }
