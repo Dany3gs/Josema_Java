@@ -1,6 +1,7 @@
 package Repaso_Bucles.Sencillos;
 /*Ejercicio resuelto con consejos de Josema por los siguientes motivos:
-- Utiliza una lógica más clara con el bucle while y el contador de intentos.
+- Utiliza una lógica más clara con el bucle while y el contador de intentos. Por no saber en qué iteración saldrá del
+  bucle.
 - Maneja explícitamente la situación de bloquear la tarjeta después de 4 intentos fallidos con un mensaje final.
 - Es más fácil de leer y entender debido al uso de una variable booleana para controlar el flujo.*/
 import java.util.Scanner;

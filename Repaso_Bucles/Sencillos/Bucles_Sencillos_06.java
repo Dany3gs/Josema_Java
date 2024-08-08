@@ -14,11 +14,13 @@ public class Bucles_Sencillos_06 {
 
         Scanner sc = new Scanner(System.in);
 
-        double numerosIngresados = Integer.MAX_VALUE;
+        double numerosIngresados; //con el for inicia en 1
         double suma = 0;
         int contador = 0;
+        boolean finalizar = false;
 
-        for (int i = 0; i < numerosIngresados; i++) {
+        //Mi código
+        /*for (int i = 0; i < numerosIngresados; i++) {
             numerosIngresados = sc.nextInt();
 
             if (numerosIngresados > 0) {
@@ -29,6 +31,23 @@ public class Bucles_Sencillos_06 {
                 System.out.println("La medía de los números ingresados es: " + suma / contador);
                 break;
             }
+        }*/
+
+        //Corregido correcto
+        while (!finalizar) {
+            numerosIngresados = sc.nextDouble();
+
+            if (numerosIngresados >= 0) {
+                suma += numerosIngresados;
+                contador++;
+            } else {
+                finalizar = true;
+            }
+        }
+        if (contador > 0) {
+            System.out.println("La medía de los números ingresados es: " + suma / contador);
+        } else {
+            System.out.printf("No se ingresaron números positivos.");
         }
     }
 }
