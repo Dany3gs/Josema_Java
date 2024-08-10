@@ -4,7 +4,7 @@
 
 
 
-Ejercicio 01 
+Ejercicio 01 ✅
 
 Contar del 1 al 10 usando while:
 Enunciado: Escribe un programa que imprima los números del 1 al 10 en la consola, uno por línea.
@@ -13,7 +13,7 @@ contadora antes del bucle y actualizarla dentro del bucle.
 
 **************************************************************************************************************************************
 
-Ejercicio 02  
+Ejercicio 02 ✅ 
 
 Suma de números pares hasta 20:
 Enunciado: Crea un programa que calcule la suma de todos los números pares desde 2 hasta 20 (inclusive) y
@@ -23,7 +23,7 @@ números pares (pista: puedes empezar en 2 e incrementar de 2 en 2).
 
 ***************************************************************************************************************
 
-Ejercicio 03 
+Ejercicio 03 ✅
 
 Tabla de multiplicar:
 Enunciado: Desarrolla un programa que pida al usuario un número y luego muestre la tabla de multiplicar de

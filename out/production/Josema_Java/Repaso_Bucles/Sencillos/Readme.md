@@ -72,7 +72,7 @@ atrás utilizando un bucle for.
 
 ***************************************************************************************************************
 
-Ejercicio 05 B ✅ 
+Ejercicio 05 B ✅ ···Corregido···
 
 Realiza el control de acceso a una caja fuerte. La combinación
 será un número de 4 cifras. El programa nos pedirá la combinación
