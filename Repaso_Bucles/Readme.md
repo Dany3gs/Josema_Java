@@ -33,7 +33,7 @@ usar Scanner para la entrada del usuario.
 
 ***************************************************************************************************************
 
-Ejercicio 04 ✅
+Ejercicio 04  
 
 Imprimir elementos de un array:
 Enunciado: Crea un array de strings con al menos 5 nombres de frutas. Luego, escribe un programa que imprima
@@ -43,7 +43,7 @@ cuando solo necesitas recorrer todos los elementos.
 
 ***************************************************************************************************************
 
-Ejercicio 05 ✅
+Ejercicio 05 
 
 Contador regresivo:
 Enunciado: Escribe un programa que pida al usuario un número y luego haga una cuenta regresiva desde ese número
