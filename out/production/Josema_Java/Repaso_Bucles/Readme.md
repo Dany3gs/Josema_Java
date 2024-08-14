@@ -33,7 +33,7 @@ usar Scanner para la entrada del usuario.
 
 ***************************************************************************************************************
 
-Ejercicio 04  
+Ejercicio 04 ✅
 
 Imprimir elementos de un array:
 Enunciado: Crea un array de strings con al menos 5 nombres de frutas. Luego, escribe un programa que imprima
