@@ -1,4 +1,4 @@
-/*Ejercicio 11
+package Varios_Josema01;/*Ejercicio 11
 
 Crea una aplicación en Java que calcule el Índice de Masa Corporal (IMC) de una persona. El IMC se calcula dividiendo
 el peso de la persona (en kilogramos) entre el cuadrado de su altura (en metros), lo que es lo mismo que

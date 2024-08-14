@@ -1,4 +1,4 @@
-/*
+package Varios_Josema01;/*
 Ejercicio 02
 
 Intenta determinar el valor final almacenado en resultado la variable en cada

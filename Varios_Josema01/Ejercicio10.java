@@ -1,4 +1,4 @@
-/*Ejercicio 10
+package Varios_Josema01;/*Ejercicio 10
 
 Escribe un programa en Java que imprima la tabla de multiplicar del 5, por ejemplo sin usar bucles. Debes usar
 sentencias de impresión separadas para cada línea de la tabla. Una vez hecho esta parte mejora tu programa para imprimir
