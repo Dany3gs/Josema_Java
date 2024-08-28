@@ -27,7 +27,7 @@ public class Bucles_Sencillos_01 {
     public static void main(String[] args) {
 
         //consejo, incremento i en el nª que queramos saber los múltiplos para ahorrar iteraciones y me ahorro el if=?¿?
-        for (int i = 0; i <= 100; i = i +5) {
+        for (int i = 0; i <= 100; i = i +5 ) {
 
                 System.out.println(i);
         }

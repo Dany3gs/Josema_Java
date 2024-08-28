@@ -1,5 +1,5 @@
 <p align="cener" width="350">      
-<h1 align="center" >Aquí encontrarás variedad de ejercicios de Java básicos! </h1>
+<h1 align="center" >Aquí encontraras variedad de ejercicios de Java básicos! </h1>
 </p>
 
 

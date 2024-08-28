@@ -7,26 +7,22 @@ si es un número positivo, negativo o cero, usando "if" y "else".
 import java.util.Scanner;
 
 public class Ejercicio08 {
-    
-    public static void main(String[] args) {
-        
-        System.out.println("Indique un número entero: ");
 
-@SuppressWarnings("resource")        
+    public static void main(String[] args) {
 
         Scanner numEntero = new Scanner(System.in);
 
-        int num;
+        System.out.println("Indique un número entero: ");
 
+        int num;
         num = numEntero.nextInt();
 
         if (num < 0) {
             System.out.println("El número es negativo.");
         } else if (num > 0) {
             System.out.println("El número es positivo.");
-        }else {
+        } else {
             System.out.println("El número es cero.");
         }
-
     }
 }
