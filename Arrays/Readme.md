@@ -39,7 +39,7 @@ rellenaremos el array con números aleatorios entre 0 y 9, al final muestra por
 pantalla el valor de cada posición y la suma de todos los valores
 //Explicada clase java.util.Random; y formas de sumar valores de array con Array.stream(variable).sum();
 
-Ejercicio Array 8
+Ejercicio Array 8 ✅
 Crea un array de números de 100 posiciones, que contendrá los números del 1 al
 100. Obtén la suma de todos ellos y la media.
 
