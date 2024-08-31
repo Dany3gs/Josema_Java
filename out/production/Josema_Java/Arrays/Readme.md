@@ -30,7 +30,7 @@ Ejercicio Array 6 ✅
 Crea un array de 10 posiciones de números con valores pedidos por teclado.
 Muestra por consola el indice y el valor al que corresponde.
 
-Ejercicio Array 7
+Ejercicio Array 7 ✅
 Crea un array de números donde le indicamos por teclado el tamaño del array,
 rellenaremos el array con números aleatorios entre 0 y 9, al final muestra por
 pantalla el valor de cada posición y la suma de todos los valores
