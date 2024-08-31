@@ -8,6 +8,8 @@
 
 Vamos con los siguientes ejercicios:
 
+***
+
 Ejercicio Array 1 ✅
 Leer 5 números y mostrarlos en el mismo orden introducido.
 
@@ -28,12 +30,13 @@ de B, el 2º de A, el 2º de B, etc.
 
 Ejercicio Array 6 ✅
 Crea un array de 10 posiciones de números con valores pedidos por teclado.
-Muestra por consola el indice y el valor al que corresponde.
+Muestra por consola el índice y el valor al que corresponde.
 
-Ejercicio Array 7
+Ejercicio Array 7 ✅
 Crea un array de números donde le indicamos por teclado el tamaño del array,
 rellenaremos el array con números aleatorios entre 0 y 9, al final muestra por
 pantalla el valor de cada posición y la suma de todos los valores
+//Explicada clase java.util.Random; y formas de sumar valores de array con Array.stream(variable).sum();
 
 Ejercicio Array 8
 Crea un array de números de 100 posiciones, que contendrá los números del 1 al
