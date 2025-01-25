@@ -17,7 +17,7 @@ public class Arrays_01 {
             num[i] = sc.nextInt();
         }
         for (int i = 0; i < num.length; i++) {
-            System.out.print(num[0] + i + ", ");
+            System.out.print(num[i] + ", ");
 
         }
     }

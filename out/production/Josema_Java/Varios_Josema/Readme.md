@@ -1,18 +1,18 @@
 
-<p align="cener" width="350">      
-<h1 align="center" > A practicar con más ejercicios en Java</h1>
-</p>
+     
+<h1 align="center" width="350">A practicar con más ejercicios en Java</h1>
+
 
 <p align="center">
-<h2>Gracias Josema por el apoyo que me das!!  </h2> 
+<h2>¡Gracias Josema por el apoyo que me das!!  </h2> 
 
 Vamos con los siguientes ejercicios:
-
+****
 Ejercicio 1
-Pedir dos números y decir si son iguales o no.
+Pedir dos números y decir si son iguales o no. ✅
 
 Ejercicio 2
-Pedir dos números y decir cual es el mayor o si son iguales.
+Pedir dos números y decir cuál es el mayor o si son iguales. ✅
 
 Ejercicio 3
 Pedir dos números y mostrarlos ordenados de mayor a menor.

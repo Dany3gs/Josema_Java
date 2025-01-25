@@ -1,4 +1,4 @@
-/*Ejercicio 05
+package Varios_Josema01;/*Ejercicio 05
 
 Escribe un programa en Java que pida al usuario un número entero y determine
 si es par o impar. El programa debe imprimir un mensaje indicando si el número

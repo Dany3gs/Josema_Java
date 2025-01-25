@@ -1,4 +1,4 @@
-/*
+package Varios_Josema01;/*
 Ejercicio 06
 
 Crea una clase llamada DivisionYResto en Java. Esta clase debe tener un método principal (main)

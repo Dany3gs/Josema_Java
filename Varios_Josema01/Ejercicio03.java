@@ -1,4 +1,4 @@
-/*
+package Varios_Josema01;/*
 Ejercicio 03
 
 Determine el valor final de resultado la variable después de ejecutar todas estas

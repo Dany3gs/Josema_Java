@@ -1,4 +1,4 @@
-/*Ejercicio 07
+package Varios_Josema01;/*Ejercicio 07
 
 Crea un programa que permita calcular longitudes de circunferencias. 
 El usuario introducirá el radio y se le responderá algo como 
