@@ -15,7 +15,7 @@ public class Bucles_06 {
 
         Scanner sc = new Scanner(System.in);
 
-        int numAleatorio = new Random(0, 100);
+        int numAleatorio;
 
     }
 }
